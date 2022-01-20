@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Simple Search Engine/task/build/
+/Topics/ArrayList/Find the nearest number/out/
+/Topics/ArrayList/Find the nearest number/out/production/classes/
+/Topics/Generics and Object/Initialize an object of a generic class/out/
+/Topics/Generics and Object/Initialize an object of a generic class/out/production/classes/
+/Topics/Generics and Object/Instance without type argument/out/
+/Topics/Generics and Object/Instance without type argument/out/production/classes/
+/Topics/Generics and Object/Reusing code with Object/out/
+/Topics/Generics and Object/Reusing code with Object/out/production/classes/
+/Topics/Generics and Object/Theory/out/
+/Topics/Generics and Object/Theory/out/production/classes/
+/Topics/Generics and Object/What is a type/out/
+/Topics/Generics and Object/What is a type/out/production/classes/
